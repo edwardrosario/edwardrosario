@@ -16,7 +16,7 @@ namespace ASPNET_Test
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Button1.Text = Session["test2"].ToString();
+            TextBox1.Text = Session["test2"].ToString();
         }
     }
 }
