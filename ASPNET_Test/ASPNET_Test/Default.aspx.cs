@@ -17,6 +17,7 @@ namespace ASPNET_Test
         protected void Button1_Click(object sender, EventArgs e)
         {
             TextBox1.Text = Session["test2"].ToString();
+            TextBox2.Text = "2nd one - " + Session["test2"].ToString();
         }
     }
 }
