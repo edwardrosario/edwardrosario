@@ -1,0 +1,5 @@
+C:\Users\sales636\Documents\Visual Studio 2010\Projects\ASPNET_Test\ASPNET_Test\bin\ASPNET_Test.dll
+C:\Users\sales636\Documents\Visual Studio 2010\Projects\ASPNET_Test\ASPNET_Test\bin\ASPNET_Test.pdb
+C:\Users\sales636\Documents\Visual Studio 2010\Projects\ASPNET_Test\ASPNET_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sales636\Documents\Visual Studio 2010\Projects\ASPNET_Test\ASPNET_Test\obj\Debug\ASPNET_Test.dll
+C:\Users\sales636\Documents\Visual Studio 2010\Projects\ASPNET_Test\ASPNET_Test\obj\Debug\ASPNET_Test.pdb
